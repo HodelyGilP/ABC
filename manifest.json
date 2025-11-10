@@ -2,17 +2,16 @@
   "name": "Pass It On Source", 
   "downloads": [
     {
-      "title": "Pass It On (Juego Completo)",
+      "title": "Pass It On",
       "fileSize": "133 MB", 
       "uris": [
-        "[ENLACE_DE_DESCARGA_AQUI]" 
-        // Este debe ser un enlace de descarga directa (.zip) o un enlace Magnet. 
-        // Ejemplo: "https://ejemplo.com/PassItOn_v1.0.zip"
+        "https://drive.google.com/drive/folders/1RtcZ_ADpuhayL0kyJfVq_xVWR7_3b9I9?fbclid=PAZXh0bgNhZW0CMTEAAadkEw0fy-1spHCnfRoXkR01VWEcYjQWOj9lTCf9NU9VClMGKJnq1tI14PGlLQ_aem_qWbVEEnXthYiaqK_QudonQ" 
+        
       ],
-      "uploadDate": "2025-09-06T04:48:00.000Z", // Fecha de la carpeta
-      "description": "Una breve descripción de tu juego Pass It On.",
+      "uploadDate": "2025-09-06T04:48:00.000Z",
+      "description": "Your job seems simple: check the luggage on the conveyor belt, detect explosives, weapons, and knives, and confiscate any threat.",
       "tags": ["juego", "indie", "pass it on"],
-      "executable": "Pass It On.exe" // Esto es clave para que Hydra sepa qué lanzar
+      "executable": "Pass It On.exe" 
     }
   ]
 }
