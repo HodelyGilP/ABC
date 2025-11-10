@@ -1,13 +1,18 @@
 {
-  "name": "Pass It On",
+  "name": "Pass It On Source", 
   "downloads": [
     {
-      "title": "El Título de tu Juego",
-      "fileSize": "1.5 GB", 
+      "title": "Pass It On (Juego Completo)",
+      "fileSize": "133 MB", 
       "uris": [
-        "magnet:?xt=urn:btih:hashdelmagnet..." 
+        "[ENLACE_DE_DESCARGA_AQUI]" 
+        // Este debe ser un enlace de descarga directa (.zip) o un enlace Magnet. 
+        // Ejemplo: "https://ejemplo.com/PassItOn_v1.0.zip"
       ],
-      "uploadDate": "2025-11-10T12:00:00.000Z" 
+      "uploadDate": "2025-09-06T04:48:00.000Z", // Fecha de la carpeta
+      "description": "Una breve descripción de tu juego Pass It On.",
+      "tags": ["juego", "indie", "pass it on"],
+      "executable": "Pass It On.exe" // Esto es clave para que Hydra sepa qué lanzar
     }
   ]
 }
